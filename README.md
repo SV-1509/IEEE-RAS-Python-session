@@ -1,5 +1,6 @@
-## Requirments for python workshop
-1. *Laptop*
+### Requirments for python workshop
+ *Laptop*
+## Software Required
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SV-1509/PyRequirments/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
