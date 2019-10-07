@@ -6,7 +6,7 @@
 
 2.Check Add python3.7 to PATH
 
-![Check Add python3.7 to PATH](https://raw.githubusercontent.com/SV-1509/IEEE-RAS-Python-session/master/pyth.JPG)
+![Check Add python3.7 to PATH](https://raw.githubusercontent.com/SV-1509/IEEE-RAS-Python-session/master/py.JPG)
 
 3.Install
 ### Mac
