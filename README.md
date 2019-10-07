@@ -2,7 +2,7 @@
 **Laptop**
 ## Software Required
 ### Windows
-1.Install python 3.7 from official website : [www.dffvbjfvj.com]
+1.Install python 3.7 from official website : [Link Text](https://www.python.org/downloads/release/python-374/)
 
 Install text editor
 ### Mac
