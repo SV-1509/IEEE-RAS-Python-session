@@ -15,6 +15,7 @@ do stuff
 1.Open terminal Alt+Ctrl+T
 
 2. Type sudo apt-get install python 3.7
+
 ## General
 For ease of use install sublime text editor from [here](http://www.sublimetext.com/3)
 
