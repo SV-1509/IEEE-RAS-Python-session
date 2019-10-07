@@ -2,7 +2,10 @@
 **Laptop**
 ## Software Required
 ### Windows
-1.Install python 3.7 from official website : [Link Text](https://www.python.org/downloads/release/python-374/)
+1.Download python 3.7 from [here](https://www.python.org/downloads/release/python-374/)
+
+![Check Add python3.7 to PATH](https://raw.githubusercontent.com/SV-1509/IEEE-RAS-Python-session/master/pyth.JPG)
+
 
 Install text editor
 ### Mac
