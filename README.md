@@ -2,7 +2,7 @@
 **Laptop**
 ## Software Required
 ### Windows
-1.Download python 3.7 from [here](https://www.python.org/)
+1.Download python 3.7 from [here](https://www.python.org/downloads/)
 
 2.Check Add python3.7 to PATH
 
@@ -10,7 +10,9 @@
 
 3.Install
 ### Mac
-1.Download python 3.7 from [here](https://www.python.org/)
+1.Download python 3.7 from [here](https://www.python.org/downloads/)
+
+2.Install
 
 ### Linux
 1.Open terminal Alt+Ctrl+T
